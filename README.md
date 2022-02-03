@@ -1,1 +1,3 @@
 # Html_css_PreEnrollment
+This project is a test for creating a Youtube´s video player page to lean making contribution.
+The Skills I required  were ...
